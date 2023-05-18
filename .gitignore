@@ -1,6 +1,7 @@
 mvtec_anomaly_detection/
 __pycache__
 .vscode/
+.ipynb_checkpoints/
 results/
 result/
 org_result/
