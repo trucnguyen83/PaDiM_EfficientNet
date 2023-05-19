@@ -1,6 +1,6 @@
 # PaDiM-EfficientNet
 
-There are two differences from the existing [PaDiM code](https://github.com/youngjae-avikus/PaDiM-EfficientNet/tree/master). 
+There are some differences from the existing [PaDiM code](https://github.com/youngjae-avikus/PaDiM-EfficientNet/tree/master). 
 
 1. Edit the heat map display to match the color bar so that max = 1 and min = 0 (not max, min = image highest, lowest score)
 2. Create a separate inference file for new data (only images, without ground truths and labels) with manual thresholding
